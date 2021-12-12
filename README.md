@@ -1,2 +1,2 @@
 # Mobile-Apps
-Contents of ENG 1003 unit - an introductory unit for Javascript &amp; Software development
+Contents of ENG 1003 unit - An introductory unit for Javascript &amp; Software Development Process.
