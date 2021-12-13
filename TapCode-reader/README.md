@@ -17,5 +17,4 @@ First, Transmitter App will encode the message by converting words to tap code. 
 
 This code runs and displays a screen with a camera feed and area for the encoded message (“rx-code”) and decoded message (“rx-translated”). It further includes a button to clear the current code (an X), to reload the camera image (see menu top right) in case the camera goes to sleep, and record/stop recording button (an eye) which starts and stops the triggering of the _listen function.
 
-![ss](https://user-images.githubusercontent.com/75357109/145668936-d5f0708b-dc7a-4ff7-aab4-0c363105c00b.jpg)
-
+![ss](https://user-images.githubusercontent.com/75357109/145859825-2bc33d6e-073a-41b9-b0af-6516e1fcde4e.jpg)
